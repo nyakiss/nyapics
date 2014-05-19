@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-Script
+Jinja2
+PIL
+SQLAlchemy
+Werkzeug
